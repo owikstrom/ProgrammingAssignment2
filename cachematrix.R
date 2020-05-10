@@ -1,15 +1,16 @@
-## Put comments here that give an overall description of what your
-## functions do
+## My implementation of Programming Assignment 2 for the R Programming Course at Coursera/John Hopkins
+## Assigment purpose is to implement caching functions.
 
-## Write a short comment describing this function
+## Function for cached matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Function for inverting matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+  
 }
